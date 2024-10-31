@@ -1,0 +1,285 @@
+body {
+    background-image: url(../img2/d287e448a4f25573a589c60b02c8e42bFON.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+}
+
+header {
+    background-color: bisque;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+    text-align: center;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+}
+
+.about {
+    background-image: url(../img2/d287e448a4f25573a589c60b02c8e42b\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    padding: 20px;
+    padding-top: 100px;
+    border-radius: 10px; 
+    display: inline-block; 
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+}
+
+footer {
+    background-color: bisque;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.avatar {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 1px;
+    padding-top: 740px;
+}
+
+.articles {
+    background-image: url(../img2/d287e448a4f25573a589c60b02c8e42bFON.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+    padding-top: 300px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pane {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20%
+}
+
+.content {
+    padding: 20px 50px;
+    color: rgb(39, 80, 15);
+    
+}
+
+.foto {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+html {
+    font-family: "Bellota", system-ui;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  p {
+    margin-top: 50px;
+  }
+
+  p2 {
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+  }
+
+   p3 {
+    color: rgb(0, 0, 0);
+    padding-left: 40px;
+    font-size: 30px;
+   }
+
+   h1 {
+    color: rgb(0, 0, 0);
+    padding-left: 40px;
+    padding-bottom: 10px;
+    font-size: 50px;
+   }
+
+   .term {
+    padding: 20px 50px;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+   }
+dt {
+    color: purple solid;
+}
+
+.obratka {
+    padding-top: 200px;
+    margin-bottom: 100px;
+}
+
+.connect {
+    margin-bottom: 200px;
+    margin: 0 auto;
+    
+}
+
+.connect select {
+    height: 20px;
+    width: 450px;
+    padding: 10px;
+    border: white solid 1px;
+    background-color: #eddfff;
+}
+
+.connect input[type="text"]{
+    height: 20px;
+    width: 450px;
+    padding: 10px;
+    border: white solid 1px;
+    background-color: #eddfff;
+}
+
+.connect input[type="email"]{
+    height: 20px;
+    width: 450px;
+    padding: 10px;
+    border: white solid 1px;
+    background-color: #eddfff;
+}
+
+.connect input[type="date"]{
+    height: 20px;
+    width: 450px;
+    padding: 10px;
+    border: white solid 1px;
+    background-color: #eddfff;
+}
+
+.connect input[type="tel"]{
+    height: 20px;
+    width: 450px;
+    padding: 10px;
+    border: white solid 1px;
+    background-color: #eddfff;
+}
+
+.connect input[type="checkbox"]{
+    height: 20px;
+    width: 450px;
+    padding: 10px;
+    border: white solid 1px;
+    background-color: #eddfff;
+}
+
+.connect input[type="submit"]{
+    width: 450px;
+    padding: 10px;
+    border: white solid 1px;
+    background-color: #eddfff;
+}
+
+
+
+.nx {
+    padding: 20px 50px;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+.atar {
+    border-radius: 20px;
+}
+
+.tablo {
+    border: 5px rgb(80, 37, 80);
+    border-collapse: collapse;
+}
+
+.tablo th,
+.tablo td {
+    border: 3px rgb(80, 37, 80);
+    padding: 10px 20px;
+}
+
+.tablo td:nth-child(3) {
+    color: blue;
+    font-size: 20px;
+}
+
+.tablo tr:nth-child(odd) {
+    background-color: rebeccapurple;
+}
+
+.tablo tr:nth-child(odd) td {
+    border-bottom: 1px solid rebeccapurple;
+}
+
+#forme input [type='submit'] {
+    background-color: rgb(126, 30, 94);
+}
+
+a {
+    color: #e199d7;
+}
+
+a:hover, a:focus {
+    color: rgb(255, 0, 204);
+    text-decoration: underline;
+}
+
+.articles a {
+    color: rgb(0, 0, 0);
+}
+
+.articles a:hover, .articles a:focus {
+    color: rgb(240, 186, 186);
+    text-decoration: underline;
+}
+
+.articles li:nth-child(even) {
+    text-decoration: line-through;
+}
+
+p::first-line {
+    letter-spacing: 5px;
+}
+
+p:lang(en) {
+    font-style: italic;
+    color: darkblue;
+}
+
+p {
+    font-family: 'Roboto', serif;
+    font-size: 23px;
+    line-height: 1.5;
+    color: rgb(0, 0, 0);
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: normal;
+}
+
+img+p {
+    margin-top: 20px;
+}
+
+footer .icon {
+    border: 2px solid rgb(242, 150, 150);
+    padding: 5px;
+}
+
